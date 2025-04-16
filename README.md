@@ -68,10 +68,6 @@ This project is structured using a clean modular approach, separating concerns b
   <br><em>Experiences</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="1000px"/>
-  <br><em>Experiences</em>
-</p>
-<p align="center">
   <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/statistics.jpeg?raw=true" width="1000px"/>
   <br><em>Statistics</em>
 </p>
