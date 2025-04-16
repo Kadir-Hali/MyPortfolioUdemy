@@ -22,14 +22,12 @@ This project aims to deliver a dynamic portfolio management system leveraging th
 ## 🚀 Features
 
 - ✅ **Admin Panel**
-  - Secure login panel for administrators
   - Create, update, and delete Experiences, Projects, and To-Do items
   - Review and manage messages submitted from the contact form
 
 - ✅ **User Interface**
-  - Responsive and mobile-first design using Bootstrap
   - Dynamic loading of content such as projects and experience data
-  - Functional contact form integrated with database
+  - Functional forms integrated with database
 
 - ✅ **Database Operations**
   - SQL Server database integration
@@ -58,38 +56,38 @@ This project is structured using a clean modular approach, separating concerns b
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/homepage.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/Home%20Page.jpeg?raw=true"width="1000px" />
   <br><em>Home Page</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/about.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/about.jpeg?raw=true" width="1000px"/>
   <br><em>About</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="1000px"/>
   <br><em>Experiences</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="1000px"/>
   <br><em>Experiences</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/statistics.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/statistics.jpeg?raw=true" width="1000px"/>
   <br><em>Statistics</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist.jpeg?raw=true" width="600px"/>
-  <br><em>To Do List</em>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist.jpeg?raw=true" width="1000px"/>
+  <br><em>ToDoList</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20list%20admin.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20list%20admin.jpeg?raw=true" width="1000px"/>
   <br><em>Admin Panel - Experience List</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20update%20admin.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20update%20admin.jpeg?raw=true" width="1000px"/>
   <br><em>Admin Panel - Experience Update</em>
 </p>
 <p align="center">
-  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist%20update%20admin.jpeg?raw=true" width="600px"/>
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist%20update%20admin.jpeg?raw=true" width="1000px"/>
   <br><em>Admin Panel - ToDoList</em>
 </p>
