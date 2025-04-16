@@ -57,5 +57,39 @@ This project is structured using a clean modular approach, separating concerns b
 
 ## 📸 Screenshots
 
-Ana Sayfa | Hakkımda Sayfası
- | 
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/homepage.jpeg?raw=true" width="600px"/>
+  <br><em>Home Page</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/about.jpeg?raw=true" width="600px"/>
+  <br><em>About</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="600px"/>
+  <br><em>Experiences</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experiences.jpeg?raw=true" width="600px"/>
+  <br><em>Experiences</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/statistics.jpeg?raw=true" width="600px"/>
+  <br><em>Statistics</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist.jpeg?raw=true" width="600px"/>
+  <br><em>To Do List</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20list%20admin.jpeg?raw=true" width="600px"/>
+  <br><em>Admin Panel - Experience List</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/experience%20update%20admin.jpeg?raw=true" width="600px"/>
+  <br><em>Admin Panel - Experience Update</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Kadir-Hali/MyPortfolioUdemy/blob/master/todolist%20update%20admin.jpeg?raw=true" width="600px"/>
+  <br><em>Admin Panel - ToDoList</em>
+</p>
